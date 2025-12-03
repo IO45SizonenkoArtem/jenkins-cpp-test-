@@ -1,0 +1,12 @@
+x64/
+Debug/
+Release/
+.vs/
+*.user
+*.aps
+*.suo
+*.opensdf
+*.sdf
+*.cache
+*.log
+packages/
